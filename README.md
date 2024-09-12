@@ -7,7 +7,7 @@ Abrir proyecto en Clion:
   2. Compilar el cliente desde CMD con g++ .\sockets2\ClientWithProtocol.\main.cpp -lws2_32 -o client.exe
   3. Runear client.exe y ya estas dentro de la app!!
 
-Github: https://github.com/josuviteri/VerseVault
+Github: Proyecto antiguo en grupo
 
 
 Mi gente, leer libros. Pero sobre todo lean BERSERK!!
